@@ -1,0 +1,11 @@
+package Renutrir;
+
+public class Conta {
+
+    private String login;
+    private String senha;
+    private String nome;
+    private String telefone;
+
+
+}
